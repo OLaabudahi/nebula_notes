@@ -42,9 +42,8 @@ lib/
  │    └── home_screen.dart
  └── widgets/
       └── glass_note_card.dart
-
+```
 ## Setup
-
 ```bash
 flutter pub get
 flutter run
