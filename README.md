@@ -1,17 +1,55 @@
-# nebula_notes
+# 🌌 Nebula Notes
 
-A new Flutter project.
+## 📖 Description
+Nebula Notes is a modern Flutter Notes Application with a beautiful Glassmorphism UI design.  
+The app allows users to add, organize, and delete notes in a clean and responsive interface.
 
-## Getting Started
+This project was developed as part of a university assignment to practice:
+- Git & GitHub workflow
+- Flutter development
+- Repository organization
+- Responsive UI design
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+- Main screen with AppBar
+- Add new notes
+- Delete notes
+- Glassmorphism Cards UI
+- Responsive design for different screen sizes
+- Modern gradient background
+- Clean and organized project structure
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Material 3
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+```bash
+lib/
+ ├── main.dart
+ ├── models/
+ │    └── note.dart
+ ├── screens/
+ │    └── home_screen.dart
+ └── widgets/
+      └── glass_note_card.dart
+
+## Setup
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Requirements
+
+- Flutter SDK 3.10.4+
