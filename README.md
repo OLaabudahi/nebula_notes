@@ -43,18 +43,6 @@ lib/
  └── widgets/
       └── glass_note_card.dart
 ```
-## 📸 Screenshots
-
-### 🏠 Home Screen
-![Home Screen](screenshots/home.png)
-
-### ➕ Add Note Dialog
-![Add Note](screenshots/add_note.png)
-
-### 💎 Glassmorphism UI
-![Glass UI](screenshots/glass_ui.png)
-
-```
 ## Setup
 ```bash
 flutter pub get
